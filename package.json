@@ -1,5 +1,5 @@
 {
-  "name": "my-project",
+  "name": "duyen-shops",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -10,14 +10,13 @@
     "strapi": "strapi",
     "deploy": "strapi deploy"
   },
-  "devDependencies": {},
   "dependencies": {
     "@offset-dev/strapi-calendar": "^0.1.1",
     "@strapi/plugin-cloud": "4.25.2",
     "@strapi/plugin-graphql": "^4.25.2",
     "@strapi/plugin-i18n": "4.25.2",
     "@strapi/plugin-users-permissions": "4.25.2",
-    "@strapi/strapi": "4.25.2",
+    "@strapi/strapi": "^4.24.5",
     "better-sqlite3": "8.6.0",
     "pg": "^8.12.0",
     "react": "^18.0.0",
